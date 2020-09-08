@@ -1,4 +1,6 @@
-Copyright 2020 Shizhe Chen
+Copyright 2020 Shizhe Chen 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChenShizhe/StatDataScience/master)
+
 
 #### License
 
