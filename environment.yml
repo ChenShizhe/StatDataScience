@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=3.6
+  - r-tidyverse
+  - r-matlab
+  - r-hexbin
+  - r-htmlwidgets
+  - r-nycflights13
