@@ -1,10 +1,6 @@
-Access this Binder at the following URL 
-
-
-https://mybinder.org/v2/gh/ChenShizhe/StatDataScience/master
-
-
 Copyright 2020 Zhichao Jiang, Kean Ming Tan, and Shizhe Chen
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChenShizhe/StatDataScience/master)
+
 
 #### License
 
